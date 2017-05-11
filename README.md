@@ -1,5 +1,5 @@
 # Ajax Loader
-[![Latest Stable Version](https://poser.pugx.org/flexyproject/githubapi/v/stable)]
+![Latest Stable Version]
 @author: Akhtar Husain <akhtar4660@gmail.com>
 # Description
 This plugin is used to implement the infinite pagination, To use it simply call the function with selector along with options.
