@@ -4,10 +4,10 @@
 # Description
 This plugin is used to implement the infinite pagination, To use it simply call the function with selector along with options.
 # Usage Example
-<pre>
+<code>
 $('#container').ajaxLoader({
 limit: 10, 
 delay: 1000, 
 path: 'ajax.php' 
 });
-</pre>
+</code>
