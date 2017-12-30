@@ -1,9 +1,9 @@
 # Ajax Loader
 
 @author: Akhtar Husain <akhtar4660@gmail.com>
-# Description
+## Description
 This plugin is used to implement the infinite pagination, To use it simply call the function with selector along with options.
-# Usage Example
+## Usage Example
 ```js
 $('#container').ajaxLoader({
 limit: 10, 
